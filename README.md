@@ -1,7 +1,11 @@
 ### Olá !!
-Bem Vindo ao meu perfil do Github.
+Seja Bem Vindo ao meu perfil do Github.
 
+Sou mestrando em Engenharia de Elétrica pelo IFPB, tenho graduação em Engenharia de Computação pela UFPB com experiência nas áreas de eletrônica, instrumentação eletrônica, eletricidade no uso de instrumentos de aferição e testes.
 
+Tenho também experiência em software de edições de imagens, de Analise de Dados e em linguagem de programação (C/C++, Python, Java). Incluindo as tecnologias Javascript,Java, React, SpringBoot, Docker e SQL.
+
+Possuo habilidades e experiências na área de gestão de pessoas e desenvolvimento de projetos com o uso de metodologias ágeis.
 
 
 <!--
